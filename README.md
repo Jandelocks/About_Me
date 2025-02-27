@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @EscaleraJandel123
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me By Coding
+# 👋 Hi, I'm Jandel L. Escalera!  
 
-<!---
-EscaleraJandel123/EscaleraJandel123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me  
+- 🎯 Passionate about coding and technology  
+- 🎓 4th-year Bachelor of Information Technology student at Mindoro State University  
+- 💡 Continuously improving my coding and technical skills  
+
+## 🚀 What I'm Working On  
+- 🔧 Enhancing my expertise in web development and database management  
+- 💻 Exploring new programming languages and frameworks  
+- 📚 Practicing problem-solving and software development  
+
+## 💞️ Let's Connect!  
+- 📫 Feel free to reach out and collaborate!  
