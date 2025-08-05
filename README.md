@@ -1,14 +1,21 @@
-# 👋 Hi, I'm Jandel L. Escalera!  
+# 👋 Hey there, I'm Jandel L. Escalera!
 
-## 👀 About Me  
-- 🎯 Passionate about coding and technology  
-- 🎓 4th-year Bachelor of Information Technology student at Mindoro State University  
-- 💡 Continuously improving my coding and technical skills  
+## 👨‍💻 About Me
 
-## 🚀 What I'm Working On  
-- 🔧 Enhancing my expertise in web development and database management  
-- 💻 Exploring new programming languages and frameworks  
-- 📚 Practicing problem-solving and software development  
+I'm a recent **Information Technology graduate** from **Mindoro State University**, now working as a **Junior Developer** at **ITDC Systems**. I’m passionate about tech, especially building apps and systems that are not only functional but also smooth and enjoyable to use.
 
-## 💞️ Let's Connect!  
-- 📫 Feel free to reach out and collaborate!  
+I enjoy learning new tools, solving real-world problems through code, and constantly improving both the way I write software and the experience it delivers.
+
+## 💼 What I Work With
+
+Here are some of the tools and technologies I use regularly:
+
+* 🖥 **.NET MAUI** – for building cross-platform desktop and mobile apps
+* 🌐 **ASP.NET Core** – for powerful and scalable backend systems
+* 🧩 **JavaScript**, **jQuery**, and **PHP** – for building dynamic, interactive websites
+* 🎨 **Bootstrap** – for creating clean and responsive user interfaces
+* 🗃 **SQL** – for managing data and making systems run efficiently
+
+## 🤝 Let’s Connect!
+
+I’m always open to new ideas, collaborations, and opportunities to grow. If you’re working on something exciting or just want to chat about tech, feel free to reach out. Let’s build something awesome together!
