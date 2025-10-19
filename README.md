@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a recent **Information Technology graduate** from **Mindoro State University**, now working as a **Junior Developer** at **ITDC Systems**. I’m passionate about tech, especially building apps and systems that are not only functional but also smooth and enjoyable to use.
+I'm a recent **Information Technology graduate** from **Mindoro State University**, now working as a **Software Engineer** at **ITDC Systems**. I’m passionate about tech, especially building apps and systems that are not only functional but also smooth and enjoyable to use.
 
 I enjoy learning new tools, solving real-world problems through code, and constantly improving both the way I write software and the experience it delivers.
 
@@ -11,7 +11,7 @@ I enjoy learning new tools, solving real-world problems through code, and consta
 Here are some of the tools and technologies I use regularly:
 
 * 🖥 **.NET MAUI** – for building cross-platform desktop and mobile apps
-* 🌐 **ASP.NET Core** – for powerful and scalable backend systems
+* 🌐 **ASP.NET Core MVC** – for powerful and scalable systems
 * 🧩 **JavaScript**, **jQuery**, and **PHP** – for building dynamic, interactive websites
 * 🎨 **Bootstrap** – for creating clean and responsive user interfaces
 * 🗃 **SQL** – for managing data and making systems run efficiently
